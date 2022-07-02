@@ -2,6 +2,6 @@
 
 **Built using:**
 
-Front-end library: React
-CSS framework: React-bootstrap
-CSS animations library: Animate.css
+Front-end library: React <br />
+CSS framework: React-bootstrap <br />
+CSS animations library: Animate.css <br />
